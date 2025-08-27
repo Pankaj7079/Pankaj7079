@@ -73,6 +73,7 @@
 
 ### 🏆 Certifications & Achievements  
 
+🏅 **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp – Udemy** [🔗](https://www.udemy.com/certificate/UC-11c8e559-afa7-40d4-8426-6d8a0fa67774/)  
 🏅 **Udemy Data Analytics Professional Certificate**  
 🏅 **Machine Learning Certification (CampusX)**  
 📜 Active learner in **GenAI, LLMs, and Big Data tools** through academic & personal projects  
@@ -83,8 +84,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pankaj-kumar-singh-iiit"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/yourgithubusername"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Pankaj7079"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github" /></a>
+  <a href="mailto:pankaj7079@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -92,13 +93,13 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj7079&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj7079&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj7079&layout=compact&theme=radical" alt="Top Languages" />
 </p>
