@@ -1,32 +1,27 @@
-<h1 align="center">Hey, I'm Pankaj ! 👋</h1>
-<h3 align="center">M.Sc. Data Science @ IIIT Lucknow | AI & ML Enthusiast | Future Data Scientist 🚀</h3>
+<h1 align="center">Hey, I'm Pankaj Kumar Singh 👋</h1>
+<h3 align="center">M.Sc. Data Science @ IIIT Lucknow | Exploring AI, GenAI & Big Data 🚀</h3>
 
 ---
 
 ### 🧠 About Me  
 
-🎓 Pursuing **M.Sc. Data Science** from **IIIT Lucknow**  
-🤖 Exploring **Machine Learning, Deep Learning, Big Data, and Generative AI**  
-🛠️ Skilled in **Python, SQL, DBMS, Statistics, and Data Visualization**  
-📚 Hands-on with **MLOps, Docker, MLflow, and Cloud Platforms (AWS, Snowflake)**  
-🔬 Experienced in **Time Series, Predictive Modeling, and Computer Vision**  
-🎯 Goal: To **build AI-driven solutions with real-world impact**  
+🎓 Currently pursuing **M.Sc. Data Science** from **IIIT Lucknow**  
+🤖 Passionate about **Machine Learning, Deep Learning, and Generative AI**  
+🛠️ Skilled in **Python, SQL, Statistics, and Data Visualization**  
+📚 Exploring cutting-edge areas like **RAG pipelines, LLM Fine-tuning, and Multimodal AI**  
+⚡ Hands-on with tools such as **HuggingFace, LangChain, Ollama, and LlamaIndex**  
+☁️ Familiar with **Big Data (Spark, Hadoop, Kafka)** and **Cloud (AWS, Snowflake)**  
+🎯 Goal: To **create scalable AI solutions with real-world impact**  
 
 ---
 
-### ⚡ Featured Projects  
+### 🚀 What I'm Exploring Right Now  
 
-🔹 [Pneumonia Detection using ResFormer](#) *(Based on Identity-Mapping ResFormer)*  
-Implemented **Conv → MCCRM → EMPT → IMTM pipeline** for X-ray image classification using **PyTorch**.  
-
-🔹 [Air Quality Index (AQI) Prediction](#)  
-Built **time series models (SARIMA, spline interpolation)** for predicting AQI levels with strong forecasting accuracy.  
-
-🔹 [Real-Time Disaster Detection & Alert System](#) *(Capstone)*  
-Streaming-based project leveraging **social media data + NLP + Big Data tools** for real-time disaster alerts.  
-
-🔹 [Crop Yield Prediction System](#) *(Capstone Option)*  
-Used **Machine Learning & Advanced Analytics** to predict yield based on environmental and soil parameters.  
+- 🔍 **Generative AI** → building & fine-tuning LLMs for specific tasks  
+- 📖 **RAG (Retrieval-Augmented Generation)** → combining knowledge bases with LLMs  
+- 🧩 **LLM Fine-tuning** → experimenting with LoRA, PEFT, and parameter-efficient methods  
+- 🛠️ **AI Tools** → HuggingFace, LangChain, Ollama, LlamaIndex, and Prompt Engineering  
+- 📊 **Big Data & Analytics** → real-time data pipelines and visualization dashboards  
 
 ---
 
@@ -44,6 +39,13 @@ Used **Machine Learning & Advanced Analytics** to predict yield based on environ
 ![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat&logo=keras)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-0D1117?style=flat)
 
+#### 🔥 GenAI & LLMs  
+![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-0D1117?style=flat&logo=huggingface)
+![Ollama](https://img.shields.io/badge/-Ollama-0D1117?style=flat)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-0D1117?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt--Engineering-0D1117?style=flat)
+
 #### 📊 Data & Visualization  
 ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)
@@ -51,13 +53,6 @@ Used **Machine Learning & Advanced Analytics** to predict yield based on environ
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=plotly)
 ![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat&logo=plotly)
 ![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=flat&logo=powerbi)
-
-#### 🔥 Generative AI & LLMs  
-![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat)
-![HuggingFace](https://img.shields.io/badge/-Transformers-0D1117?style=flat&logo=huggingface)
-![RAG](https://img.shields.io/badge/-RAG-0D1117?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt--Engineering-0D1117?style=flat)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-0D1117?style=flat)
 
 #### ☁️ Big Data & Cloud  
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-0D1117?style=flat&logo=apachespark)
@@ -80,7 +75,7 @@ Used **Machine Learning & Advanced Analytics** to predict yield based on environ
 
 🏅 **Udemy Data Analytics Professional Certificate**  
 🏅 **Machine Learning Certification (CampusX)**  
-📜 Hands-on experience with **Generative AI, LLMs, and Big Data** through academic + self projects  
+📜 Active learner in **GenAI, LLMs, and Big Data tools** through academic & personal projects  
 
 ---
 
@@ -90,4 +85,20 @@ Used **Machine Learning & Advanced Analytics** to predict yield based on environ
   <a href="https://www.linkedin.com/in/pankaj-kumar-singh-iiit"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/yourgithubusername"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github" /></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
