@@ -80,13 +80,10 @@
 
 ---
 
-### 🌐 Let's Connect  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pankaj-kumar-singh-iiit"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/Pankaj7079"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github" /></a>
-  <a href="mailto:pankaj7079@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+## 📬 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/pankaj-singh-9216a1302/)  
+- [Kaggle](https://www.kaggle.com/pankaj7079)  
+- 📧 Email: **pankajkumar341035@gmail.com**  
 
 ---
 
