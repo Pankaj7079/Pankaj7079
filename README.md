@@ -100,3 +100,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj7079&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README with Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Pankaj7079
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+
