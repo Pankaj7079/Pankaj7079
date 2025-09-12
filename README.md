@@ -87,24 +87,18 @@
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj7079&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj7079&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj7079&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj7079&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj7079&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj7079&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🔧 Highlights
-- 🚀 Active contributor on **GitHub**  
-- 📂 Multiple repositories showcasing **AI/ML, Data Science, and Projects**  
-- 🌟 Auto-updating stats via **GitHub Readme Stats & Actions**
 
