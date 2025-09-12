@@ -87,16 +87,26 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📌 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj7079&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Str&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj7079&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Str&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj7079&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Str&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+#### 🔧 Highlights
+
+- ⭐ 187 public repos  
+- 🌟 82 stars  
+- 👥 179 followers  
+- 📚 Key projects: **JAVA-SE-Tutorial-codeswithpankaj** (40★, 17 forks), **JavaScript Tutorial** (18★, 3 forks)  
+
