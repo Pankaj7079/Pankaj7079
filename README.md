@@ -1,105 +1,162 @@
-<h1 align="center">Hey, I'm Pankaj Kumar Singh 👋</h1>
-<h3 align="center">M.Sc. Data Science @ IIIT Lucknow | Exploring AI, GenAI & Big Data 🚀</h3>
+<h1 align="center">☀️ Hey, I'm Pankaj Kumar <img src="party-github.gif" width="40" </h1>
+<h3 align="center">Curious Mind in AI & ML | Love to Learn & Build | Future AI/ML Engineer & Data Scientist </h3>
 
----
-
-### 🧠 About Me  
-
-🎓 Currently pursuing **M.Sc. Data Science** from **IIIT Lucknow**  
-🤖 Passionate about **Machine Learning, Deep Learning, and Generative AI**  
-🛠️ Skilled in **Python, SQL, Statistics, and Data Visualization**  
-📚 Exploring cutting-edge areas like **RAG pipelines, LLM Fine-tuning, and Multimodal AI**  
-⚡ Hands-on with tools such as **HuggingFace, LangChain, Ollama, and LlamaIndex**  
-☁️ Familiar with **Big Data (Spark, Hadoop, Kafka)** and **Cloud (AWS, Snowflake)**  
-🎯 Goal: To **create scalable AI solutions with real-world impact**  
-
----
-
-### 🚀 What I'm Exploring Right Now  
-
-- 🔍 **Generative AI** → building & fine-tuning LLMs for specific tasks  
-- 📖 **RAG (Retrieval-Augmented Generation)** → combining knowledge bases with LLMs  
-- 🧩 **LLM Fine-tuning** → experimenting with LoRA, PEFT, and parameter-efficient methods  
-- 🛠️ **AI Tools** → HuggingFace, LangChain, Ollama, LlamaIndex, and Prompt Engineering  
-- 📊 **Big Data & Analytics** → real-time data pipelines and visualization dashboards  
-
----
-
-### ⚒️ Tech Toolbox  
-
-#### 💻 Languages  
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=postgresql)
-![C](https://img.shields.io/badge/-C-0D1117?style=flat&logo=c)
-
-#### 🤖 AI/ML & DL  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-0D1117?style=flat&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat&logo=keras)
-![XGBoost](https://img.shields.io/badge/-XGBoost-0D1117?style=flat)
-
-#### 🔥 GenAI & LLMs  
-![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-0D1117?style=flat&logo=huggingface)
-![Ollama](https://img.shields.io/badge/-Ollama-0D1117?style=flat)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-0D1117?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt--Engineering-0D1117?style=flat)
-
-#### 📊 Data & Visualization  
-![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)
-![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=flat&logo=seaborn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=plotly)
-![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat&logo=plotly)
-![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=flat&logo=powerbi)
-
-#### ☁️ Big Data & Cloud  
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-0D1117?style=flat&logo=apachespark)
-![Hadoop](https://img.shields.io/badge/-Hadoop-0D1117?style=flat&logo=apachehadoop)
-![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=flat&logo=apachekafka)
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazonaws)
-![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat&logo=snowflake)
-
-#### 🛠️ Dev Tools  
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=flat&logo=jupyter)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
-![MLflow](https://img.shields.io/badge/-MLflow-0D1117?style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit)
-
----
-
-### 🏆 Certifications & Achievements  
-
-🏅 **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp – Udemy** [🔗](https://www.udemy.com/certificate/UC-11c8e559-afa7-40d4-8426-6d8a0fa67774/)  
-🏅 **Udemy Data Analytics Professional Certificate**  
-🏅 **Machine Learning Certification (CampusX)**  
-📜 Active learner in **GenAI, LLMs, and Big Data tools** through academic & personal projects  
-
----
-
-## 📬 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/pankaj-singh-9216a1302/)  
-- [Kaggle](https://www.kaggle.com/pankaj7079)  
-- 📧 Email: **pankajkumar341035@gmail.com**  
-
----
-
-## 📊 GitHub Stats  
-
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj7079&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=950&lines=M.Sc.+AI+%26+ML+@+IIIT+Lucknow;AI%2FML+%26+Agentic+AI+Enthusiast;LLM+Fine-tuning+%7C+RAG+%7C+Autonomous+Agents;MLOps+%7C+AWS+%7C+S3+%7C+CI%2FCD+Pipelines;DSA+%7C+DBMS+%7C+Machine+Learning+%7C+Deep+Learning;Cloud+Computing+%7C+Reinforcement+Learning+%7C+NLP+%7C+Computer+Vision;Data+Mining+and+Warehousing+%7C+Building+Human-Centered+AI+Applications" alt="Typing Animation" />
 </p>
 
+<div align="center">
+  
+## 🧠 About Me <img src="party-github.gif" width="30" />
+
+**Name:** Atish Kumar Sharma  
+**Location:** Lucknow, India  
+**Current:** M.Sc. AI & ML @ IIIT Lucknow  
+**Background:** Mathematics  
+**Specialties:** ML • DL • Generative AI • LLMs • NLP • RAG • MLOps  
+**Interests:** Agentic AI, Reinforcement Learning, LLMOps, Scalable & Production-Ready AI Systems  
+
+🎯 *“Building intelligent, scalable AI systems that solve real-world problems.”*
+
+<div align="center">
+
+---
+
+### 🤝 Connect with Me  
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atish.sharma7321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atish-kr-sharma-85a2972a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atish019)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atishshrma)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj7079&theme=radical" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=Gaurav9693089415&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
+</div>
+
+---
+
+## 💻 Tech Stack <img src="party-github.gif" width="30" />
+
+### 🔹 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔹 **ML & Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge)
+
+### 🔹 **Computer Vision**
+![Object%20Detection](https://img.shields.io/badge/Object%20Detection-16A085?style=for-the-badge)
+![Image%20Segmentation](https://img.shields.io/badge/Image%20Segmentation-8E44AD?style=for-the-badge)
+![Faster%20R--CNN](https://img.shields.io/badge/Faster%20R--CNN-2E86C1?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![U--Net](https://img.shields.io/badge/U--Net-2C3E50?style=for-the-badge)
+![GANs](https://img.shields.io/badge/GANs-6C3483?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+### 🔹 **LLMs & Generative AI**
+![Transformers](https://img.shields.io/badge/Transformers-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-0A0A0A?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-34495E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-16A085?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔹 **LLM Fine-Tuning & Adaptation**
+![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
+![GPT--2](https://img.shields.io/badge/GPT--2-412991?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-8E44AD?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-9B59B6?style=for-the-badge)
+![Gemma--2](https://img.shields.io/badge/Gemma--2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PEFT](https://img.shields.io/badge/PEFT-0B5345?style=for-the-badge)
+![HuggingFace%20Trainer](https://img.shields.io/badge/HF%20Trainer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔹 **Natural Language Processing (NLP)**
+![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![Tokenization](https://img.shields.io/badge/Tokenization-2C3E50?style=for-the-badge)
+![Text%20Classification](https://img.shields.io/badge/Text%20Classification-16A085?style=for-the-badge)
+![Named%20Entity%20Recognition](https://img.shields.io/badge/NER-8E44AD?style=for-the-badge)
+![Text%20Preprocessing](https://img.shields.io/badge/Text%20Preprocessing-34495E?style=for-the-badge)
+
+### 🔹 **Databases & Vector Stores**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector%20Databases-FA8072?style=for-the-badge)
+
+
+### 🔹 **MLOps / Deployment**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD%20Pipeline-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔹 **Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects <img src="party-github.gif" width="30" />
+
+▸ Post-Discharge-Medical-AI-Assistant  
+▸ MultiAgent-AI-Trip-Planner  
+▸ Gemma2b-LoRA-Finetuning-Quotes  
+▸ Butterfly-Semantic-Segmentation-U-Net  
+▸ Agriculture-AI-Crop-Ranking-System  
+▸ SciSynth-AI  
+▸ Conversational Chatbot  
+▸ Vehicle Detection & Counting (YOLOv8)  
+▸ Credit Card Fraud Detection  
+▸ *and more…*
+</p>
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- **Amazon ML Challenge:** Secured **Team AIR 500+** in a nationwide machine learning competition  
+
+- **Data Science with Python** – Simplilearn   [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/14EnCryF1Aqnus0YpDwvie3j_pCZVoHYw/view?usp=sharing)
+
+- **Machine Learning** – Simplilearn   [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1AqZPGFfGbKORBTk9WdRM71V4vpdw7-o0/view?usp=sharing)
+
+- **Full Stack Web Development (CSS, Bootstrap, JavaScript, PHP)** – Udemy  [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1x99-OEf-fDqfoJVTsen8KfSRk_WDOC9z/view?usp=sharing)
+
+- **110+ Exercises: Python + SQL (SQLite Databases)** – Udemy  [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1Kkzc7iriaY7z1FBS4QkCNS_SOl1P3cnh/view?usp=sharing)
+
+- ### **From-Scratch Implementations:**  
+  **Large Language Model (LLM's) • GANs • ResNet • Inception • VGG16 (Pneumonia Classification)**
+
+<div align="center">
+  
+## 🐍 GitHub Contribution Snake <img src="party-github.gif" width="30" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj7079&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-
-
+</div>
