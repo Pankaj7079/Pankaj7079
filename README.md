@@ -1,4 +1,4 @@
-<h1 align="center">☀️ Hey, I'm Pankaj Kumar <img src="party-github.gif" width="40"></h1>
+<h1 align="center">☀️ Hey, I'm Pankaj <img src="party-github.gif" width="40"></h1>
 <h3 align="center">Turning Data into Intelligent Systems | AI/ML • GenAI • MLOps</h3>
 
 <!-- Typing animation -->
@@ -51,7 +51,6 @@ Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -133,7 +132,7 @@ Model Versioning • CI/CD Pipelines • Monitoring • Experiment Tracking
 
 ## 🏆 Achievements & Certifications
 
-- Amazon ML Challenge – Team AIR 500+  
+- Amazon ML Challenge — Ranked in Top 500 Teams Nationwide
 - TATA GenAI Data Analytics – Forage [![Certificate](https://www.theforage.com/simulations/tata/data-analytics-t3zr)
 
 ---
