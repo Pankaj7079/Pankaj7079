@@ -20,11 +20,11 @@
 🎯 **Professional Summary**  
 MSc Data Science student at IIIT Lucknow with hands-on experience in building data pipelines and developing data-driven AI applications. Strong foundation in Machine Learning, NLP, and Generative AI, with exposure to MLOps workflows for deploying and maintaining production-ready models. Passionate about transforming data into actionable insights through scalable analytics and intelligent data-driven systems.
 
-**Enthusist**  
-ML • DL • Generative AI • LLMs • NLP • RAG • Agentic AI • Computer Vision • Big Data • MLOps • Cloud  
+**Technical Expertise:**  
+Machine Learning • Deep Learning • Generative AI • Large Language Models (LLMs) • NLP • RAG • Agentic AI • Computer Vision • Big Data • MLOps • Cloud Computing  
 
-**Interests:**  
-Agentic AI, LLMOps, Reinforcement Learning, Distributed Systems, Scalable AI Platforms  
+**Focus Areas & Interests:**  
+Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems • Scalable AI Platforms • Intelligent Automation
 
 🎯 *“Building intelligent, scalable AI systems that solve real-world problems.”*
 
