@@ -18,10 +18,10 @@
 **Background:** Mathematics  
 
 🎯 **Professional Summary**  
-MSc Data Science student at IIIT Lucknow with hands-on experience in building data pipelines and developing data-driven AI applications. Strong foundation in Machine Learning, NLP, and Generative AI, with exposure to MLOps workflows for deploying and maintaining production-ready models. Passionate about transforming data into actionable insights through scalable analytics and intelligent data-driven systems.
+MSc Data Science student at IIIT Lucknow with experience in data pipelines, ML, DL, NLP, Generative AI,Cloud and MLOps, focused on building scalable, production-ready intelligent systems.
 
 **Technical Expertise:**  
-Machine Learning • Deep Learning • Generative AI • Large Language Models (LLMs) • NLP • RAG • Agentic AI • Computer Vision • Big Data • MLOps • Cloud Computing  
+Machine Learning • Deep Learning • Generative AI • Large Language Models (LLMs) • NLP • RAG • MLOps 
 
 **Focus Areas & Interests:**  
 Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems • Scalable AI Platforms • Intelligent Automation
@@ -113,6 +113,8 @@ EC2 • S3 • ECR • EKS • IAM • Cloud Storage
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 Model Versioning • CI/CD Pipelines • Monitoring • Experiment Tracking
 
