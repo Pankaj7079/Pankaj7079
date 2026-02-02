@@ -1,156 +1,132 @@
-<h1 align="center">☀️ Hey, I'm Pankaj Kumar <img src="party-github.gif" width="40" </h1>
-<h3 align="center">Curious Mind in AI & ML | Love to Learn & Build | Future AI/ML Engineer & Data Scientist </h3>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=950&lines=M.Sc.+AI+%26+ML+@+IIIT+Lucknow;AI%2FML+%26+Agentic+AI+Enthusiast;LLM+Fine-tuning+%7C+RAG+%7C+Autonomous+Agents;MLOps+%7C+AWS+%7C+S3+%7C+CI%2FCD+Pipelines;DSA+%7C+DBMS+%7C+Machine+Learning+%7C+Deep+Learning;Cloud+Computing+%7C+Reinforcement+Learning+%7C+NLP+%7C+Computer+Vision;Data+Mining+and+Warehousing+%7C+Building+Human-Centered+AI+Applications" alt="Typing Animation" />
-</p>
-
-<div align="center">
-  
-## 🧠 About Me <img src="party-github.gif" width="30" />
-
-**Name:** Pankaj Kumar  
-**Location:** Lucknow, India  
-**Current:** M.Sc. Data Science  @ IIIT Lucknow  
-**Background:** Mathematics  
-**Specialties:** ML • DL • Generative AI • LLMs • NLP • RAG • MLOps  
-**Interests:** Agentic AI, Reinforcement Learning, LLMOps, Scalable & Production-Ready AI Systems  
-
-🎯 *“Building intelligent, scalable AI systems that solve real-world problems.”*
-
-<div align="center">
+Nice — below is a polished, **unique**, and **modern/“marmerid”-style** GitHub profile README you can copy-paste into your `README.md`.
+I used details from your CV to keep content accurate. After the README code block you'll find the file citations I referenced. Replace any repo links / images with your real ones where marked.
 
 ---
 
-### 🤝 Connect with Me  
+```md
+<!-- README.md - Pankaj Kumar (Profile) -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Pankaj7079/Pankaj7079/main/assets/hi-blob.svg" alt="hi" width="56" style="vertical-align:middle"/>
+  <span style="font-size:36px">Pankaj Kumar</span>
+  <br/>
+  <sub style="font-size:14px">M.Sc. Data Science @ IIIT Lucknow • AI/ML Engineer in making</sub>
+</h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](pankajksingh341035@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-singh-9216a1302/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pankaj7079)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pankaj7079)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gaurav9693089415&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=880&height=40&lines=Agentic+AI+%7C+RAG+%7C+LLM+Fine-tuning;MLOps+%7C+Computer+Vision+%7C+Generative+AI;Production+AI+Systems+%7C+Research+to+Deployment" alt="typing"/>
 </p>
+
+---
+
+<div align="center">
+  <!-- Contact / Social -->
+  <a href="mailto:pankajsingh341035@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pankaj-singh-9216a1302/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Pankaj7079"><img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.kaggle.com/pankaj7079"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </div>
 
 ---
 
-## 💻 Tech Stack <img src="party-github.gif" width="30" />
-
-### 🔹 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔹 **ML & Deep Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge)
-
-### 🔹 **Computer Vision**
-![Object%20Detection](https://img.shields.io/badge/Object%20Detection-16A085?style=for-the-badge)
-![Image%20Segmentation](https://img.shields.io/badge/Image%20Segmentation-8E44AD?style=for-the-badge)
-![Faster%20R--CNN](https://img.shields.io/badge/Faster%20R--CNN-2E86C1?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-![U--Net](https://img.shields.io/badge/U--Net-2C3E50?style=for-the-badge)
-![GANs](https://img.shields.io/badge/GANs-6C3483?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-
-
-### 🔹 **LLMs & Generative AI**
-![Transformers](https://img.shields.io/badge/Transformers-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-2C3E50?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-0A0A0A?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-34495E?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-16A085?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🔹 **LLM Fine-Tuning & Adaptation**
-![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
-![GPT--2](https://img.shields.io/badge/GPT--2-412991?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-8E44AD?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-9B59B6?style=for-the-badge)
-![Gemma--2](https://img.shields.io/badge/Gemma--2-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PEFT](https://img.shields.io/badge/PEFT-0B5345?style=for-the-badge)
-![HuggingFace%20Trainer](https://img.shields.io/badge/HF%20Trainer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🔹 **Natural Language Processing (NLP)**
-![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-![Tokenization](https://img.shields.io/badge/Tokenization-2C3E50?style=for-the-badge)
-![Text%20Classification](https://img.shields.io/badge/Text%20Classification-16A085?style=for-the-badge)
-![Named%20Entity%20Recognition](https://img.shields.io/badge/NER-8E44AD?style=for-the-badge)
-![Text%20Preprocessing](https://img.shields.io/badge/Text%20Preprocessing-34495E?style=for-the-badge)
-
-### 🔹 **Databases & Vector Stores**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![VectorDB](https://img.shields.io/badge/Vector%20Databases-FA8072?style=for-the-badge)
-
-
-### 🔹 **MLOps / Deployment**
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge)
-![CI%2FCD](https://img.shields.io/badge/CI%2FCD%20Pipeline-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🔹 **Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## ✨ Who I am
+I’m a Data Science master’s student at IIIT Lucknow with a mathematics background. I build **scalable AI systems** — from model training and fine-tuning to MLOps deployment and user-facing apps. I enjoy solving real-world problems with generative models, RAG pipelines, and production-ready ML infra.
 
 ---
 
-## 🚀 Featured Projects <img src="party-github.gif" width="30" />
-
-▸ Fine-Tuning-GPT-2-with-PEFT-LoRA-On-English-Quotes
-▸ Explainable-RAG-Based-Question-Answering-System
-▸ End-to-End-MLOps-Lifecycle-System
-▸ Financial-LLM-Fine-Tuning-LLaMA-3-8B-on-FinancialQA-using-QLoRA-Unsloth 
-▸ Unified_AI_Chatbot_with_Web-News_Explorer
-▸ Pneumonia-Detection-from-Chest-X-ray-Images-using-Deep-Learning-Identity-Mapping-ResFormer-
-▸
-▸
-▸
-▸ *and more…*
-</p>
-</div>
+## 🚀 Highlights
+- MSc Data Science — IIIT Lucknow. :contentReference[oaicite:0]{index=0}  
+- Strong in: **LLM fine-tuning (QLoRA/LoRA/PEFT)**, **RAG**, **Computer Vision**, **MLOps** (Docker, GitHub Actions, AWS). :contentReference[oaicite:1]{index=1}  
+- Experience building & deploying end-to-end systems (Streamlit/React + FastAPI + AWS/ECR/EKS + CI/CD). :contentReference[oaicite:2]{index=2}
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🧰 Tech Snapshot
+<!-- compact badges — keep only the most relevant ones -->
+**Languages & Tools:**  
+`Python` `PyTorch` `TensorFlow` `NumPy` `OpenCV` `Pillow` `SQL` `Docker` `GitHub Actions` `AWS (EC2, S3, ECR)` `Kubernetes` `FastAPI` `Streamlit`
 
-- **Amazon ML Challenge:** Secured **Team AIR 500+** in a nationwide machine learning competition  
+**LLM & GenAI:**  
+`Hugging Face` `Transformers` `LangChain` `LlamaIndex` `QLoRA` `PEFT` `LoRA` `FAISS` `RAG`
 
-- **TATA GenAI Data Analytics – Forage   [![Certificate](https://www.theforage.com/simulations/tata/data-analytics-t3zr)
+**MLOps:**  
+`DVC` `MLflow` `Prometheus` `Grafana` `CI/CD` `EKS`
 
-- ### **From-Scratch Implementations:**  
-  **Large Language Model (LLM's) • GANs • ResNet • Inception • VGG16 (Pneumonia Classification)**
+---
 
-<div align="center">
-  
-## 🐍 GitHub Contribution Snake <img src="party-github.gif" width="30" />
+## 🔭 Featured Projects
+> *Selected — full list on my GitHub profile.*
 
-<p align="center">
-  <img src="github-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-</div>
+- **Financial LLM** — Memory-efficient fine-tuning of LLaMA-3-8B using QLoRA & Unsloth for financial Q&A (RAG + FAISS). :contentReference[oaicite:3]{index=3}  
+- **MedQuery AI** — Healthcare assistant (RAG + LangChain + Streamlit) with AWS deployment and CI/CD. :contentReference[oaicite:4]{index=4}  
+- **End-to-End MLOps Lifecycle System** — Reproducible pipelines with DVC, MLflow, automated CI/CD and EKS deployment. :contentReference[oaicite:5]{index=5}  
+- **Pneumonia X-Ray Classifier** — ResFormer-based model for chest X-ray classification (PyTorch, Streamlit). :contentReference[oaicite:6]{index=6}
+
+**Quick links:**  
+> Replace placeholders with repo links (copy exact repo slugs).
+- `https://github.com/Pankaj7079/Financial-LLM`  
+- `https://github.com/Pankaj7079/MedQuery-AI`  
+- `https://github.com/Pankaj7079/End-to-End-MLOps`  
+- `https://github.com/Pankaj7079/Pneumonia-ResFormer`
+
+---
+
+## 📁 How I structure projects
+```
+
+project-root/
+├── data/                 # datasets + metadata
+├── src/                  # model & training code
+├── api/                  # FastAPI app or Flask
+├── web/                  # Next.js / Streamlit frontend
+├── infra/                # Dockerfiles, k8s, CI workflows
+├── experiments/          # DVC / MLflow records
+└── README.md
+
+````
+
+---
+
+## 🧪 How to run a demo (example)
+```bash
+# clone
+git clone https://github.com/Pankaj7079/<repo>
+cd <repo>
+
+# create env
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# run API (example)
+uvicorn api.main:app --reload
+
+# run frontend (if streamlit)
+streamlit run app.py
+````
+
+---
+
+## 🏅 Achievements & Certifications
+* TATA GenAI Data Analytics — Forage. 
+
+---
+
+## 📬 Contact & Resume
+
+* **Email:** [pankajsingh341035@gmail.com](mailto:pankajsingh341035@gmail.com)
+* **Phone:** +91-7079341035
+* **GitHub:** [https://github.com/Pankaj7079](https://github.com/Pankaj7079)
+---
+
+## ✨ Want the same README but:
+
+* in **minimal** style, or
+* in **two-column** layout, or
+* with **live contribution graph / snake**
+
+Tell me which variant and I’ll generate the exact README plus optional images/assets (SVGs) ready to paste.
+
+---
+
+<p align="center">Made with ❤️ • Always learning • IIIT Lucknow</p>
+```
