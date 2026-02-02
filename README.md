@@ -10,9 +10,9 @@
   
 ## 🧠 About Me <img src="party-github.gif" width="30" />
 
-**Name:** Atish Kumar Sharma  
+**Name:** Pankaj Kumar  
 **Location:** Lucknow, India  
-**Current:** M.Sc. AI & ML @ IIIT Lucknow  
+**Current:** M.Sc. Data Science  @ IIIT Lucknow  
 **Background:** Mathematics  
 **Specialties:** ML • DL • Generative AI • LLMs • NLP • RAG • MLOps  
 **Interests:** Agentic AI, Reinforcement Learning, LLMOps, Scalable & Production-Ready AI Systems  
@@ -25,10 +25,10 @@
 
 ### 🤝 Connect with Me  
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atish.sharma7321@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atish-kr-sharma-85a2972a7/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atish019)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/atishshrma)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](pankajksingh341035@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-singh-9216a1302/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pankaj7079)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pankaj7079)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gaurav9693089415&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
@@ -122,15 +122,15 @@
 
 ## 🚀 Featured Projects <img src="party-github.gif" width="30" />
 
-▸ Post-Discharge-Medical-AI-Assistant  
-▸ MultiAgent-AI-Trip-Planner  
-▸ Gemma2b-LoRA-Finetuning-Quotes  
-▸ Butterfly-Semantic-Segmentation-U-Net  
-▸ Agriculture-AI-Crop-Ranking-System  
-▸ SciSynth-AI  
-▸ Conversational Chatbot  
-▸ Vehicle Detection & Counting (YOLOv8)  
-▸ Credit Card Fraud Detection  
+▸ Fine-Tuning-GPT-2-with-PEFT-LoRA-On-English-Quotes
+▸ Explainable-RAG-Based-Question-Answering-System
+▸ End-to-End-MLOps-Lifecycle-System
+▸ Financial-LLM-Fine-Tuning-LLaMA-3-8B-on-FinancialQA-using-QLoRA-Unsloth 
+▸ Unified_AI_Chatbot_with_Web-News_Explorer
+▸ Pneumonia-Detection-from-Chest-X-ray-Images-using-Deep-Learning-Identity-Mapping-ResFormer-
+▸
+▸
+▸
 ▸ *and more…*
 </p>
 </div>
@@ -141,13 +141,7 @@
 
 - **Amazon ML Challenge:** Secured **Team AIR 500+** in a nationwide machine learning competition  
 
-- **Data Science with Python** – Simplilearn   [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/14EnCryF1Aqnus0YpDwvie3j_pCZVoHYw/view?usp=sharing)
-
-- **Machine Learning** – Simplilearn   [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1AqZPGFfGbKORBTk9WdRM71V4vpdw7-o0/view?usp=sharing)
-
-- **Full Stack Web Development (CSS, Bootstrap, JavaScript, PHP)** – Udemy  [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1x99-OEf-fDqfoJVTsen8KfSRk_WDOC9z/view?usp=sharing)
-
-- **110+ Exercises: Python + SQL (SQLite Databases)** – Udemy  [![Certificate](https://img.shields.io/badge/View-Certificate-2EA44F?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1Kkzc7iriaY7z1FBS4QkCNS_SOl1P3cnh/view?usp=sharing)
+- **TATA GenAI Data Analytics – Forage   [![Certificate](https://www.theforage.com/simulations/tata/data-analytics-t3zr)
 
 - ### **From-Scratch Implementations:**  
   **Large Language Model (LLM's) • GANs • ResNet • Inception • VGG16 (Pneumonia Classification)**
