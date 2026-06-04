@@ -42,7 +42,6 @@ Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems
 </p>
 
 </div>
-
 ---
 
 ## 💻 Technical Skills <img src="party-github.gif" width="30" />
@@ -51,13 +50,21 @@ Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+### 🔹 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🔹 AI / GenAI Stack
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -70,20 +77,6 @@ Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge&logoColor=white)
 
-### 🔹 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### 🔹 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
 ### 🔹 Databases & Vector Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -93,15 +86,6 @@ Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems
 ![Pinecone](https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
 
-### 🔹 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
 ### 🔹 Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -110,8 +94,6 @@ Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems
 
 CNNs • RNNs • LSTMs • GRUs • Transformers • Feature Engineering • Hyperparameter Tuning
 
----
-
 ### 🔹 Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
@@ -119,8 +101,6 @@ CNNs • RNNs • LSTMs • GRUs • Transformers • Feature Engineering • Hy
 ![GANs](https://img.shields.io/badge/GANs-6C3483?style=for-the-badge)
 
 Image Classification • Object Detection • Image Segmentation
-
----
 
 ### 🔹 NLP & LLMs
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -131,8 +111,6 @@ Image Classification • Object Detection • Image Segmentation
 
 LoRA • QLoRA • PEFT • Prompt Engineering • Vector Search
 
----
-
 ### 🔹 Big Data & Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -142,15 +120,11 @@ LoRA • QLoRA • PEFT • Prompt Engineering • Vector Search
 
 ETL Pipelines • Data Warehousing • Streaming Data
 
----
-
 ### 🔹 Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 EC2 • S3 • ECR • EKS • IAM • Cloud Storage
-
----
 
 ### 🔹 MLOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -169,24 +143,23 @@ Model Versioning • CI/CD Pipelines • Monitoring • Experiment Tracking
 
 ## 🚀 Featured Projects <img src="party-github.gif" width="30" />
 
-▸ Fine-Tuning-GPT-2-with-PEFT-LoRA-On-English-Quotes  
-▸ Explainable-RAG-Based-Question-Answering-System  
-▸ End-to-End-MLOps-Lifecycle-System  
-▸ Financial-LLM-Fine-Tuning-LLaMA-3-8B-on-FinancialQA-using-QLoRA-Unsloth  
-▸ Unified_AI_Chatbot_with_Web-News_Explorer  
-▸ Pneumonia-Detection-from-Chest-X-ray-Images-using-Deep-Learning  
+- Fine-Tuning-GPT-2-with-PEFT-LoRA-On-English-Quotes
+- Explainable-RAG-Based-Question-Answering-System
+- End-to-End-MLOps-Lifecycle-System
+- Financial-LLM-Fine-Tuning-LLaMA-3-8B-on-FinancialQA-using-QLoRA-Unsloth
+- Unified_AI_Chatbot_with_Web-News_Explorer
+- Pneumonia-Detection-from-Chest-X-ray-Images-using-Deep-Learning
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 - Amazon ML Challenge — Ranked in Top 500 Teams Nationwide
-- TATA GenAI Data Analytics – Forage [![Certificate](https://www.theforage.com/simulations/tata/data-analytics-t3zr)
 
 ---
 
 ## 🐍 GitHub Contribution Snake <img src="party-github.gif" width="30" />
 
 <p align="center">
-  <img src="github-snake.svg" />
+  <img src="github-snake.svg" alt="GitHub contribution snake" />
 </p>
