@@ -1,5 +1,5 @@
 <h1 align="center">☀️ Hey, I'm Pankaj <img src="party-github.gif" width="40"></h1>
-<h3 align="center">Turning Data into Intelligent Systems | AI/ML • GenAI • MLOps</h3>
+<h3 align="center">Turning Data into Production-Grade GenAI & Agentic Pipelines  | AI/ML • GenAI • MLOps</h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -14,11 +14,11 @@
 
 **Name:** Pankaj Kumar  
 **Location:** Lucknow, India  
-**Current:** M.Sc. Data Science @ IIIT Lucknow  
+**Current:** Master's in Data Science @ IIIT Lucknow  
 **Background:** Mathematics  
 
 🎯 **Professional Summary**  
-MSc Data Science student at IIIT Lucknow with experience in data pipelines, ML, DL, NLP, LLMs, RAG, GenAI, AgenticAI, Cloud and MLOps, focused on building scalable, production-ready intelligent systems.
+Recently completed master's in Data Science from IIIT Lucknow with hands on experience in data pipelines, ML, DL, NLP, LLMs, RAG, GenAI, AgenticAI, Cloud and MLOps, focused on building scalable, production-ready intelligent systems.
 
 **Technical Expertise:**  
 Machine Learning • Deep Learning • Generative AI • AgenticAI • Large Language Models (LLMs) • NLP • RAG • MLOps 
@@ -55,15 +55,12 @@ Agentic AI Systems • LLMOps • Reinforcement Learning • Distributed Systems
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔹 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 ### 🔹 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🔹 AI / GenAI Stack
