@@ -14,7 +14,7 @@
 
 **Name:** Pankaj Kumar  
 **Location:** Lucknow, India  
-**Current:** Master's in Data Science @ IIIT Lucknow  
+** ** Master's in Data Science @ IIIT Lucknow  
 **Background:** Mathematics  
 
 🎯 **Professional Summary**  
