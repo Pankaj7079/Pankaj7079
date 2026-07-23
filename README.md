@@ -18,7 +18,7 @@
 **Background:** Mathematics  
 
 🎯 **Professional Summary**  
-Recently completed master's in Data Science from IIIT Lucknow with hands on experience in data pipelines, ML, DL, NLP, LLMs, RAG, GenAI, AgenticAI, Cloud and MLOps, focused on building scalable, production-ready intelligent systems.
+Recently completed Master's in Data Science from IIIT Lucknow with hands-on experience in end-to-end AI/ML development, including data pipelines, Deep Learning, NLP, LLMs, RAG, Generative AI, Agentic AI, Cloud, and MLOps. Experienced in building scalable, production-ready intelligent systems.
 
 **Technical Expertise:**  
 Machine Learning • Deep Learning • Generative AI • AgenticAI • Large Language Models (LLMs) • NLP • RAG • MLOps 
